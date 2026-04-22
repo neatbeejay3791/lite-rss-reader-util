@@ -1,2 +1,9 @@
-# lite-rss-reader-util
-A simple rss reader project
+# Rss Reader
+
+A simple rss reader project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
